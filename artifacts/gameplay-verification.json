@@ -1,0 +1,1270 @@
+{
+  "checkedAt": "2026-10-15T05:57:29.527Z",
+  "engineHash": "a53df7339c8646304f7ff7d9453829b2e9ed5ee4cd02d949572a5dfafcc14fa2",
+  "browser": "Chromium",
+  "method": "Phaser Arcade browser physics, fixed 60Hz clock, input-only route controller with full level knowledge",
+  "total": 180,
+  "passed": 180,
+  "cases": [
+    {
+      "id": 1,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.944986799999995,
+      "attempts": 1
+    },
+    {
+      "id": 2,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.380073333333386,
+      "attempts": 1
+    },
+    {
+      "id": 3,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.9140966666666617,
+      "attempts": 1
+    },
+    {
+      "id": 4,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.9609866666668103,
+      "attempts": 1
+    },
+    {
+      "id": 5,
+      "mode": "easy",
+      "ok": true,
+      "time": 7.443306666666645,
+      "attempts": 1
+    },
+    {
+      "id": 6,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.9933199999999944,
+      "attempts": 1
+    },
+    {
+      "id": 7,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.064300000000106,
+      "attempts": 1
+    },
+    {
+      "id": 8,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.9956128000001434,
+      "attempts": 1
+    },
+    {
+      "id": 9,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.993993333333179,
+      "attempts": 1
+    },
+    {
+      "id": 10,
+      "mode": "easy",
+      "ok": true,
+      "time": 7.893310199999977,
+      "attempts": 1
+    },
+    {
+      "id": 11,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.0939399999998454,
+      "attempts": 1
+    },
+    {
+      "id": 12,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.981463333333328,
+      "attempts": 1
+    },
+    {
+      "id": 13,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.528553333333326,
+      "attempts": 1
+    },
+    {
+      "id": 14,
+      "mode": "easy",
+      "ok": true,
+      "time": 6.414816666666593,
+      "attempts": 1
+    },
+    {
+      "id": 15,
+      "mode": "easy",
+      "ok": true,
+      "time": 23.595983066666683,
+      "attempts": 1
+    },
+    {
+      "id": 16,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.113363333333216,
+      "attempts": 1
+    },
+    {
+      "id": 17,
+      "mode": "easy",
+      "ok": true,
+      "time": 7.72713946666657,
+      "attempts": 1
+    },
+    {
+      "id": 18,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.061993333333253,
+      "attempts": 1
+    },
+    {
+      "id": 19,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.060803266666661,
+      "attempts": 1
+    },
+    {
+      "id": 20,
+      "mode": "easy",
+      "ok": true,
+      "time": 10.11468999999997,
+      "attempts": 1
+    },
+    {
+      "id": 21,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.195046666666586,
+      "attempts": 1
+    },
+    {
+      "id": 22,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.0606933333334765,
+      "attempts": 1
+    },
+    {
+      "id": 23,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.115019999999938,
+      "attempts": 1
+    },
+    {
+      "id": 24,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.862866666666658,
+      "attempts": 1
+    },
+    {
+      "id": 25,
+      "mode": "easy",
+      "ok": true,
+      "time": 10.798002933333393,
+      "attempts": 1
+    },
+    {
+      "id": 26,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.047862866666717,
+      "attempts": 1
+    },
+    {
+      "id": 27,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.495160000000145,
+      "attempts": 1
+    },
+    {
+      "id": 28,
+      "mode": "easy",
+      "ok": true,
+      "time": 6.827113333333165,
+      "attempts": 1
+    },
+    {
+      "id": 29,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.143306666666661,
+      "attempts": 1
+    },
+    {
+      "id": 30,
+      "mode": "easy",
+      "ok": true,
+      "time": 27.597896666666383,
+      "attempts": 1
+    },
+    {
+      "id": 31,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.0599727999999944,
+      "attempts": 1
+    },
+    {
+      "id": 32,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.0485195999999384,
+      "attempts": 1
+    },
+    {
+      "id": 33,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.0628394666665866,
+      "attempts": 1
+    },
+    {
+      "id": 34,
+      "mode": "easy",
+      "ok": true,
+      "time": 6.894829933333165,
+      "attempts": 1
+    },
+    {
+      "id": 35,
+      "mode": "easy",
+      "ok": true,
+      "time": 8.260759999999841,
+      "attempts": 1
+    },
+    {
+      "id": 36,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.047656666666549,
+      "attempts": 1
+    },
+    {
+      "id": 37,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.5309829333333815,
+      "attempts": 1
+    },
+    {
+      "id": 38,
+      "mode": "easy",
+      "ok": true,
+      "time": 7.243299999999979,
+      "attempts": 1
+    },
+    {
+      "id": 39,
+      "mode": "easy",
+      "ok": true,
+      "time": 4.511413333333248,
+      "attempts": 1
+    },
+    {
+      "id": 40,
+      "mode": "easy",
+      "ok": true,
+      "time": 9.29331333333345,
+      "attempts": 1
+    },
+    {
+      "id": 41,
+      "mode": "easy",
+      "ok": true,
+      "time": 4.947219999999987,
+      "attempts": 1
+    },
+    {
+      "id": 42,
+      "mode": "easy",
+      "ok": true,
+      "time": 4.661926466666804,
+      "attempts": 1
+    },
+    {
+      "id": 43,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.031356666666661,
+      "attempts": 1
+    },
+    {
+      "id": 44,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.9465466666667175,
+      "attempts": 1
+    },
+    {
+      "id": 45,
+      "mode": "easy",
+      "ok": true,
+      "time": 11.414369600000091,
+      "attempts": 1
+    },
+    {
+      "id": 46,
+      "mode": "easy",
+      "ok": true,
+      "time": 10.095726666666897,
+      "attempts": 1
+    },
+    {
+      "id": 47,
+      "mode": "easy",
+      "ok": true,
+      "time": 4.593319999999989,
+      "attempts": 1
+    },
+    {
+      "id": 48,
+      "mode": "easy",
+      "ok": true,
+      "time": 4.528286666666656,
+      "attempts": 1
+    },
+    {
+      "id": 49,
+      "mode": "easy",
+      "ok": true,
+      "time": 7.377413333333238,
+      "attempts": 1
+    },
+    {
+      "id": 50,
+      "mode": "easy",
+      "ok": true,
+      "time": 32.84332666666609,
+      "attempts": 1
+    },
+    {
+      "id": 51,
+      "mode": "easy",
+      "ok": true,
+      "time": 7.197573333333201,
+      "attempts": 1
+    },
+    {
+      "id": 52,
+      "mode": "easy",
+      "ok": true,
+      "time": 5.028199999999913,
+      "attempts": 1
+    },
+    {
+      "id": 53,
+      "mode": "easy",
+      "ok": true,
+      "time": 11.026660000000128,
+      "attempts": 1
+    },
+    {
+      "id": 54,
+      "mode": "easy",
+      "ok": true,
+      "time": 2.9480599999999946,
+      "attempts": 1
+    },
+    {
+      "id": 55,
+      "mode": "easy",
+      "ok": true,
+      "time": 11.347806666666754,
+      "attempts": 1
+    },
+    {
+      "id": 56,
+      "mode": "easy",
+      "ok": true,
+      "time": 10.959961400000124,
+      "attempts": 1
+    },
+    {
+      "id": 57,
+      "mode": "easy",
+      "ok": true,
+      "time": 3.414480000000049,
+      "attempts": 1
+    },
+    {
+      "id": 58,
+      "mode": "easy",
+      "ok": true,
+      "time": 6.20998666666665,
+      "attempts": 1
+    },
+    {
+      "id": 59,
+      "mode": "easy",
+      "ok": true,
+      "time": 10.145506666666675,
+      "attempts": 1
+    },
+    {
+      "id": 60,
+      "mode": "easy",
+      "ok": true,
+      "time": 11.863963333333446,
+      "attempts": 1
+    },
+    {
+      "id": 1,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.927749533333399,
+      "attempts": 1
+    },
+    {
+      "id": 2,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.3477766666666042,
+      "attempts": 1
+    },
+    {
+      "id": 3,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.915949999999991,
+      "attempts": 2
+    },
+    {
+      "id": 4,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.9493666666667697,
+      "attempts": 2
+    },
+    {
+      "id": 5,
+      "mode": "hard",
+      "ok": true,
+      "time": 11.145753333333317,
+      "attempts": 1
+    },
+    {
+      "id": 6,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.978839999999991,
+      "attempts": 2
+    },
+    {
+      "id": 7,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.043473333333175,
+      "attempts": 2
+    },
+    {
+      "id": 8,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.9474929333333244,
+      "attempts": 1
+    },
+    {
+      "id": 9,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.959999999999991,
+      "attempts": 1
+    },
+    {
+      "id": 10,
+      "mode": "hard",
+      "ok": true,
+      "time": 11.731132933333551,
+      "attempts": 1
+    },
+    {
+      "id": 11,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.062739999999842,
+      "attempts": 1
+    },
+    {
+      "id": 12,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.9483929333333245,
+      "attempts": 1
+    },
+    {
+      "id": 13,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.493319999999989,
+      "attempts": 1
+    },
+    {
+      "id": 14,
+      "mode": "hard",
+      "ok": true,
+      "time": 6.193459466666725,
+      "attempts": 1
+    },
+    {
+      "id": 15,
+      "mode": "hard",
+      "ok": true,
+      "time": 23.576813333333128,
+      "attempts": 1
+    },
+    {
+      "id": 16,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.094319999999842,
+      "attempts": 1
+    },
+    {
+      "id": 17,
+      "mode": "hard",
+      "ok": true,
+      "time": 8.695026666666603,
+      "attempts": 1
+    },
+    {
+      "id": 18,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.0266574666666575,
+      "attempts": 1
+    },
+    {
+      "id": 19,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.027426133333399,
+      "attempts": 1
+    },
+    {
+      "id": 20,
+      "mode": "hard",
+      "ok": true,
+      "time": 16.093320000000368,
+      "attempts": 1
+    },
+    {
+      "id": 21,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.147879999999879,
+      "attempts": 1
+    },
+    {
+      "id": 22,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.443313333333323,
+      "attempts": 1
+    },
+    {
+      "id": 23,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.093760000000065,
+      "attempts": 1
+    },
+    {
+      "id": 24,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.027053333333176,
+      "attempts": 1
+    },
+    {
+      "id": 25,
+      "mode": "hard",
+      "ok": true,
+      "time": 17.62747280000036,
+      "attempts": 1
+    },
+    {
+      "id": 26,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.028892666666806,
+      "attempts": 1
+    },
+    {
+      "id": 27,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.462599466666585,
+      "attempts": 1
+    },
+    {
+      "id": 28,
+      "mode": "hard",
+      "ok": true,
+      "time": 7.781356666666756,
+      "attempts": 1
+    },
+    {
+      "id": 29,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.110339999999991,
+      "attempts": 1
+    },
+    {
+      "id": 30,
+      "mode": "hard",
+      "ok": true,
+      "time": 27.578286133333126,
+      "attempts": 1
+    },
+    {
+      "id": 31,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.014293333333269,
+      "attempts": 1
+    },
+    {
+      "id": 32,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.014743333333269,
+      "attempts": 1
+    },
+    {
+      "id": 33,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.0143233333334365,
+      "attempts": 1
+    },
+    {
+      "id": 34,
+      "mode": "hard",
+      "ok": true,
+      "time": 7.85996373333331,
+      "attempts": 1
+    },
+    {
+      "id": 35,
+      "mode": "hard",
+      "ok": true,
+      "time": 11.031116666666794,
+      "attempts": 1
+    },
+    {
+      "id": 36,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.026646666666658,
+      "attempts": 1
+    },
+    {
+      "id": 37,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.509986666666656,
+      "attempts": 1
+    },
+    {
+      "id": 38,
+      "mode": "hard",
+      "ok": true,
+      "time": 8.21145313333332,
+      "attempts": 1
+    },
+    {
+      "id": 39,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.7146389999999325,
+      "attempts": 1
+    },
+    {
+      "id": 40,
+      "mode": "hard",
+      "ok": true,
+      "time": 12.993600000000077,
+      "attempts": 1
+    },
+    {
+      "id": 41,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.9478000000000435,
+      "attempts": 1
+    },
+    {
+      "id": 42,
+      "mode": "hard",
+      "ok": true,
+      "time": 8.013969999999865,
+      "attempts": 1
+    },
+    {
+      "id": 43,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.031806666666605,
+      "attempts": 1
+    },
+    {
+      "id": 44,
+      "mode": "hard",
+      "ok": true,
+      "time": 2.9482033333332165,
+      "attempts": 1
+    },
+    {
+      "id": 45,
+      "mode": "hard",
+      "ok": true,
+      "time": 13.964563333333663,
+      "attempts": 1
+    },
+    {
+      "id": 46,
+      "mode": "hard",
+      "ok": true,
+      "time": 8.262733333333173,
+      "attempts": 1
+    },
+    {
+      "id": 47,
+      "mode": "hard",
+      "ok": true,
+      "time": 5.3433066666666535,
+      "attempts": 1
+    },
+    {
+      "id": 48,
+      "mode": "hard",
+      "ok": true,
+      "time": 4.514893333333267,
+      "attempts": 1
+    },
+    {
+      "id": 49,
+      "mode": "hard",
+      "ok": true,
+      "time": 7.376646666666646,
+      "attempts": 1
+    },
+    {
+      "id": 50,
+      "mode": "hard",
+      "ok": true,
+      "time": 33.4472499999995,
+      "attempts": 1
+    },
+    {
+      "id": 51,
+      "mode": "hard",
+      "ok": true,
+      "time": 5.909986666666651,
+      "attempts": 1
+    },
+    {
+      "id": 52,
+      "mode": "hard",
+      "ok": true,
+      "time": 7.764966666666645,
+      "attempts": 6
+    },
+    {
+      "id": 53,
+      "mode": "hard",
+      "ok": true,
+      "time": 11.014839733333572,
+      "attempts": 1
+    },
+    {
+      "id": 54,
+      "mode": "hard",
+      "ok": true,
+      "time": 2.947903333333328,
+      "attempts": 1
+    },
+    {
+      "id": 55,
+      "mode": "hard",
+      "ok": true,
+      "time": 14.677460000000309,
+      "attempts": 1
+    },
+    {
+      "id": 56,
+      "mode": "hard",
+      "ok": true,
+      "time": 10.894716133333453,
+      "attempts": 1
+    },
+    {
+      "id": 57,
+      "mode": "hard",
+      "ok": true,
+      "time": 3.593936400000067,
+      "attempts": 1
+    },
+    {
+      "id": 58,
+      "mode": "hard",
+      "ok": true,
+      "time": 5.19386613333332,
+      "attempts": 1
+    },
+    {
+      "id": 59,
+      "mode": "hard",
+      "ok": true,
+      "time": 12.893333333333553,
+      "attempts": 1
+    },
+    {
+      "id": 60,
+      "mode": "hard",
+      "ok": true,
+      "time": 15.261940000000413,
+      "attempts": 1
+    },
+    {
+      "id": 1,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.379340000000139,
+      "attempts": 1
+    },
+    {
+      "id": 2,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 3.031132933333328,
+      "attempts": 1
+    },
+    {
+      "id": 3,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.576646666666655,
+      "attempts": 2
+    },
+    {
+      "id": 4,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.615643333333266,
+      "attempts": 2
+    },
+    {
+      "id": 5,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 12.809986666666882,
+      "attempts": 1
+    },
+    {
+      "id": 6,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.447903333333211,
+      "attempts": 2
+    },
+    {
+      "id": 7,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.426773333333473,
+      "attempts": 2
+    },
+    {
+      "id": 8,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.478473333333174,
+      "attempts": 1
+    },
+    {
+      "id": 9,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.4124533333333975,
+      "attempts": 1
+    },
+    {
+      "id": 10,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 13.3813362666668,
+      "attempts": 1
+    },
+    {
+      "id": 11,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.595737866666581,
+      "attempts": 1
+    },
+    {
+      "id": 12,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.411896533333324,
+      "attempts": 1
+    },
+    {
+      "id": 13,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.945366133333246,
+      "attempts": 1
+    },
+    {
+      "id": 14,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 3.8607733333334,
+      "attempts": 1
+    },
+    {
+      "id": 15,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 23.245393333333446,
+      "attempts": 1
+    },
+    {
+      "id": 16,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 5.826666666666651,
+      "attempts": 1
+    },
+    {
+      "id": 17,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 8.843307266666685,
+      "attempts": 1
+    },
+    {
+      "id": 18,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 5.828659999999984,
+      "attempts": 9
+    },
+    {
+      "id": 19,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.481319999999934,
+      "attempts": 1
+    },
+    {
+      "id": 20,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 18.246073333333655,
+      "attempts": 1
+    },
+    {
+      "id": 21,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 5.862725933333392,
+      "attempts": 1
+    },
+    {
+      "id": 22,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.130960000000103,
+      "attempts": 1
+    },
+    {
+      "id": 23,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.4766533333333225,
+      "attempts": 2
+    },
+    {
+      "id": 24,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.527140000000138,
+      "attempts": 1
+    },
+    {
+      "id": 25,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 19.16047946666701,
+      "attempts": 1
+    },
+    {
+      "id": 26,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.476639999999989,
+      "attempts": 1
+    },
+    {
+      "id": 27,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 5.264726666666765,
+      "attempts": 1
+    },
+    {
+      "id": 28,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 7.476653333333312,
+      "attempts": 1
+    },
+    {
+      "id": 29,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.559966666666655,
+      "attempts": 1
+    },
+    {
+      "id": 30,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 27.581303333332936,
+      "attempts": 1
+    },
+    {
+      "id": 31,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.480036666666767,
+      "attempts": 1
+    },
+    {
+      "id": 32,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.528206466666507,
+      "attempts": 1
+    },
+    {
+      "id": 33,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.481169999999989,
+      "attempts": 1
+    },
+    {
+      "id": 34,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 8.74768666666668,
+      "attempts": 1
+    },
+    {
+      "id": 35,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 12.814412933333605,
+      "attempts": 1
+    },
+    {
+      "id": 36,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.527593333333173,
+      "attempts": 1
+    },
+    {
+      "id": 37,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.960380000000062,
+      "attempts": 1
+    },
+    {
+      "id": 38,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 8.781643133333237,
+      "attempts": 1
+    },
+    {
+      "id": 39,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 3.9649333333333243,
+      "attempts": 1
+    },
+    {
+      "id": 40,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 14.726660000000312,
+      "attempts": 1
+    },
+    {
+      "id": 41,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.959973333333322,
+      "attempts": 1
+    },
+    {
+      "id": 42,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 10.14332666666675,
+      "attempts": 1
+    },
+    {
+      "id": 43,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 3.046258933333253,
+      "attempts": 1
+    },
+    {
+      "id": 44,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 2.9632333333334033,
+      "attempts": 1
+    },
+    {
+      "id": 45,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 15.729589933333546,
+      "attempts": 1
+    },
+    {
+      "id": 46,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 6.831386666666592,
+      "attempts": 1
+    },
+    {
+      "id": 47,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 5.5273866666666525,
+      "attempts": 1
+    },
+    {
+      "id": 48,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.514503333333434,
+      "attempts": 1
+    },
+    {
+      "id": 49,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 7.376633333333312,
+      "attempts": 1
+    },
+    {
+      "id": 50,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 33.143313333332735,
+      "attempts": 1
+    },
+    {
+      "id": 51,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 5.094388733333246,
+      "attempts": 1
+    },
+    {
+      "id": 52,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 8.010406666666718,
+      "attempts": 1
+    },
+    {
+      "id": 53,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 11.014683333333572,
+      "attempts": 1
+    },
+    {
+      "id": 54,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 2.9602529333333276,
+      "attempts": 1
+    },
+    {
+      "id": 55,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 18.96101333333339,
+      "attempts": 1
+    },
+    {
+      "id": 56,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 8.360460000000069,
+      "attempts": 1
+    },
+    {
+      "id": 57,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.009967266666658,
+      "attempts": 1
+    },
+    {
+      "id": 58,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 4.30999999999999,
+      "attempts": 1
+    },
+    {
+      "id": 59,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 13.144906666666824,
+      "attempts": 1
+    },
+    {
+      "id": 60,
+      "mode": "nightmare",
+      "ok": true,
+      "time": 19.87776000000008,
+      "attempts": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "/",
+  "name": "Spitebound",
+  "short_name": "Spitebound",
+  "description": "Every step fights back. A 60-level trap platformer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11131b",
+  "theme_color": "#11131b",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

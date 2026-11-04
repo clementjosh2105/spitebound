@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Spitebound — a lime adventurer above a spike trap</title>
+  <rect width="64" height="64" rx="14" fill="#11131b"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#1b2430" stroke="#35443d" stroke-width="2"/>
+  <path d="M24 10h16v4h8v26h-4v4H20v-4h-4V14h8z" fill="#87ba38"/>
+  <path d="M24 10h16v4h8v22H16V14h8z" fill="#bafa54"/>
+  <path d="M21 19h8v4h-8zm14 0h8v4h-8z" fill="#17221b"/>
+  <path d="M23 24h5v5h-5zm13 0h5v5h-5z" fill="#17221b"/>
+  <path d="M24 33h16v4H28v-2h-4z" fill="#17221b"/>
+  <path d="M24 41h16v5H24z" fill="#edf3dc"/>
+  <path d="M23 46h7v5h-7zm11 0h7v5h-7z" fill="#a9b8cb"/>
+  <path d="m9 57 7-11 7 11 9-11 9 11 7-11 7 11z" fill="#ff7488"/>
+  <path d="M9 57h46v3H9z" fill="#ab4054"/>
+</svg>
