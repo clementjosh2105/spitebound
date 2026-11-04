@@ -74,7 +74,8 @@ export class TrapScene extends Phaser.Scene {
  }
 
  private label(x:number,y:number,text:string,style:Phaser.Types.GameObjects.Text.TextStyle){
- const label=this.add.text(x,y,text,{...style,fontFamily:'Arial, Helvetica, sans-serif'}).setResolution(3);
+ const res=typeof window!=='undefined'&&(/Android|iPhone|iPad|Mobile/i.test(navigator.userAgent)||window.innerWidth<800)?1.5:2;
+ const label=this.add.text(x,y,text,{...style,fontFamily:'Arial, Helvetica, sans-serif'}).setResolution(res);
  label.texture.setFilter(Phaser.Textures.FilterMode.LINEAR);return label;
  }
  private createMachinery(){
