@@ -35,8 +35,8 @@ jobs:
 
       - name: Build game
         env:
-          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
-          VITE_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.VITE_SUPABASE_PUBLISHABLE_KEY }}
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL || 'https://dcetxuapgjnadmqcoxps.supabase.co' }}
+          VITE_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.VITE_SUPABASE_PUBLISHABLE_KEY || 'sb_publishable_NVcODITIIBxLMvNDQb3FvA_4CbLpQVS' }}
         run: npm run build
 
       - name: Setup Pages
