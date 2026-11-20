@@ -1,7 +1,7 @@
 export type PlayerUser={id:string;email?:string;user_metadata:{username?:string}};
 type Session={user:PlayerUser};
 type Listener=(event:string,session:Session|null)=>void;
-async function request(path:string,data?:unknown){const response=await fetch('/api'+path,{method:data===undefined?'GET':'POST',headers:data===undefined?undefined:{'Content-Type':'application/json'},credentials:'same-origin',body:data===undefined?undefined:JSON.stringify(data),signal:AbortSignal.timeout(15000)});const result=await response.json();if(!response.ok)throw new Error(result.error||'Unable to connect to the account server.');return result;}
+async function request(path:string,data?:unknown){let response:Response;try{response=await fetch('/api'+path,{method:data===undefined?'GET':'POST',headers:data===undefined?undefined:{'Content-Type':'application/json'},credentials:'same-origin',body:data===undefined?undefined:JSON.stringify(data),signal:AbortSignal.timeout(15000)});}catch{throw new Error('Online account server is unreachable. Click "Continue as guest" below to play.');}if(response.status===404||!response.headers.get('content-type')?.includes('application/json')){throw new Error('Online accounts are not hosted on this static page. Please click "Continue as guest" below to play and save locally.');}let result:any;try{result=await response.json();}catch{throw new Error('Online accounts are not hosted on this static page. Please click "Continue as guest" below to play and save locally.');}if(!response.ok)throw new Error(result.error||'Unable to connect to the account server.');return result;}
 export function createLocalClient(){
  const listeners=new Set<Listener>();
  const broadcast=(event:string,session:Session|null)=>listeners.forEach(fn=>fn(event,session));
